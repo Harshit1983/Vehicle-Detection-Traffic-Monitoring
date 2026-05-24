@@ -1,4 +1,4 @@
-# AI-Based Smart Traffic Monitoring & Analysis System
+# Smart Traffic Monitoring & Analysis System
 
 # 1 Overview
 This project is an traffic monitoring system that detects, tracks, counts, and analyzes vehicles from traffic videos using YOLOv8 and OpenCV.
